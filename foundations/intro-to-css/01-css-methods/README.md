@@ -18,7 +18,15 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
+
 - Did you properly link the external CSS file in the HTML file?
+    <!-- css (styles.css) file is properly linked to html file, placed within the <head> tags -->
+
 - Does the `div` element have CSS added via the external method?
+    <!-- div element was added using a external css file (styles.css) -->
+
 - Does the `p` element have CSS added via the internal method?
-- Does the `button` element have CSS added via the inline method?
+<!-- CSS was added to the (p) element, created within the <head> tags, using the internal method with <style> tags-->
+
+- Does the `button` element have CSS added via the inline method? 
+    <!-- (Button) has black text color and orange background with font size set to 18px using inline method -->
