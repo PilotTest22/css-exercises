@@ -1,0 +1,14 @@
+.click,
+.nome {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click {
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(228, 224, 224);
+}
+
+.nome {
+    background-color: #e8ff1b;
+}
